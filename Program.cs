@@ -55,14 +55,15 @@ namespace VariablesCS
             double remainder = firstOperand % secondOperand;
             
             Console.WriteLine($"Adding {firstNumberAsString} to {secondNumberAsString} = {sum}.");
-            Console.WriteLine();
+                                                                                                    Console.WriteLine();
             Console.WriteLine($"Subtracting {firstNumberAsString} from {secondNumberAsString} = {difference}.");
-            Console.WriteLine();
+                                                                                                    Console.WriteLine();
             Console.WriteLine($"Multiplying {firstNumberAsString} by {secondNumberAsString} = {product}.");
-            Console.WriteLine();
+                                                                                                    Console.WriteLine();
             Console.WriteLine($"Dividing {firstNumberAsString} by {secondNumberAsString} = {quotient}.");
-            Console.WriteLine();
+                                                                                                    Console.WriteLine();
             Console.WriteLine($"The remainder when dividing {firstNumberAsString} by {secondNumberAsString} = {remainder}.");
+            
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
